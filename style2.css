@@ -14,13 +14,13 @@ section.hero.is-bold{
  }
 
 b{
-	color: orange;
+	color: hsl(171,100%,41%);
 }
 .box{
 	background: hsl(0,0%,0%);
 }
 
 a{
-	color: orange;
+	color: hsl(171,100%,41%);
 }
 
